@@ -1,3 +1,4 @@
+[![Ask AI Agent](https://img.shields.io/badge/Ask%20AI-Agent-blue)](https://huggingface.co/chat?repo=your-repo)
 # my_streaming_software
 my_streaming_software/
 ├── src/
